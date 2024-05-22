@@ -5,7 +5,7 @@ Meu nome é Fernanda Emanuelly, mas podem me chamar de Manu
 - Estou me desenvolvendo na linguagem de JavaScript
 - Sou escritora
 
- ### Você pode entra em contato comigo em: mailbox
+ ### Você pode entra em contato comigo em: 💬
 
  @_emanuelly_eu
  
